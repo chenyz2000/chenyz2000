@@ -3,7 +3,7 @@
 <!--
 doc:https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
-![CYZ's github stats](https://github-readme-stats.vercel.app/api?username=chenyz2000&show_icons=true&hide=prs,issues,contribs&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
+![CYZ's github stats](https://github-readme-stats.vercel.app/api?username=chenyz2000&show_icons=true&hide=issues,contribs&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyz2000&layout=compact)]-->
 
